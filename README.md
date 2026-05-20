@@ -5,5 +5,10 @@ Static responsive modal window using HTML and CSS.
 - HTML5
 - CSS3
 
+## Live Preview
+
+[ Open Project]
+
+
 ## Author
 VIKTOR KHEGAI
