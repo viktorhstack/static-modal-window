@@ -7,7 +7,7 @@ Static responsive modal window using HTML and CSS.
 
 ## Live Preview
 
-[ Open Project]https://viktorhstack.github.io/static-modal-window/
+[ Open Project] (https://viktorhstack.github.io/static-modal-window/)
 
 
 ## Author
